@@ -1,0 +1,5 @@
+Contact: https://wa.me/22890880394?text=Signalement%20de%20securite%20Ice%20Blue%20Lome
+Expires: 2027-10-09T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://icebluelome.github.io/Ice-blue-Lom-/.well-known/security.txt
+Policy: https://github.com/icebluelome/Ice-blue-Lom-/security/policy

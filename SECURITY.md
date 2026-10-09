@@ -1,21 +1,9 @@
-# Security Policy
+# Politique de sécurité
 
-## Supported Versions
+Seule la version actuellement publiée du site Ice Blue Lomé est maintenue.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Signaler une vulnérabilité
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Contactez-nous en privé sur [WhatsApp](https://wa.me/22890880394?text=Bonjour%2C%20je%20souhaite%20signaler%20un%20probl%C3%A8me%20de%20s%C3%A9curit%C3%A9%20sur%20le%20site%20Ice%20Blue%20Lom%C3%A9.). N'ouvrez pas de ticket public contenant des données sensibles ou des instructions d'exploitation.
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Indiquez l'URL concernée, l'impact observé et les étapes minimales de reproduction. Nous accuserons réception dès que possible et vous informerons de la correction.
